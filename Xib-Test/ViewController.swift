@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var collectionView: UICollectionView!
 
   
-    let array = ["hoge", "ほげほげ", "Hello!"]
+    let array = ["Hello　World"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
